@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite this reconstructed implementation separately from the thesis and its historical experiments."
+type: software
+title: "Nanopore Basecalling Preprocessing Reconstructed Implementation"
+repository-code: "https://github.com/Behrooz-Zamanipour/nanopore-basecalling-preprocessing"
+url: "https://github.com/Behrooz-Zamanipour/nanopore-basecalling-preprocessing"
+authors:
+  - family-names: "Zamanipour Ghohrood"
+    given-names: "Behrooz"
+abstract: >-
+  AI-assisted reconstruction of a thesis pipeline comparing six read-wise
+  preprocessing strategies for nanopore DNA basecalling using a fixed 1D CNN
+  and CTC. The original historical Google Cloud source, data, trained weights,
+  and experiment outputs are not included. This is not a verified reproduction
+  of the numerical thesis results.
+keywords:
+  - nanopore
+  - basecalling
+  - signal preprocessing
+  - CTC
+  - DNA
